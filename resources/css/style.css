@@ -41,7 +41,7 @@ nav {
   background-image: URL("../img-mission-background.jpg");
   height: 700px;
   width: 1200px;
-  margin: 100px auto;
+  margin: 100px auto 0px auto;
   position: relative;
 }
 
@@ -55,6 +55,7 @@ nav {
 
 #featured-teas {
   text-align: center;
+  padding: 100px;
 }
 
 .teas {
@@ -77,7 +78,6 @@ figure img {
   flex-direction: column;
   text-align: center;
   align-items: center;
-  position: relative;
 }
 
 #locations h1 {
